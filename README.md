@@ -44,12 +44,7 @@
 - CocoaPods
 
 ## Screenshots
-<img src="https://raw.githubusercontent.com/vlsuv/hn/master/screenshots/main_light.png" width="257" height="500">
-<img src="https://raw.githubusercontent.com/vlsuv/hn/master/screenshots/detail_story_light.png" width="257" height="500">
-<img src="https://raw.githubusercontent.com/vlsuv/hn/master/screenshots/web_light.png" width="257" height="500"> 
-<img src="https://raw.githubusercontent.com/vlsuv/hn/master/screenshots/detail_ask_light.png" width="257" height="500">  
-<img src="https://raw.githubusercontent.com/vlsuv/hn/master/screenshots/main_dark.png" width="257" height="500">
-<img src="https://raw.githubusercontent.com/vlsuv/hn/master/screenshots/detail_story_dark.png" width="257" height="500"> 
+<img src="https://raw.githubusercontent.com/vlsuv/hn/master/screenshots/main_light.png" width="257" height="500"> <img src="https://raw.githubusercontent.com/vlsuv/hn/master/screenshots/detail_story_light.png" width="257" height="500"> <img src="https://raw.githubusercontent.com/vlsuv/hn/master/screenshots/web_light.png" width="257" height="500">  <img src="https://raw.githubusercontent.com/vlsuv/hn/master/screenshots/detail_ask_light.png" width="257" height="500"> <img src="https://raw.githubusercontent.com/vlsuv/hn/master/screenshots/main_dark.png" width="257" height="500"> <img src="https://raw.githubusercontent.com/vlsuv/hn/master/screenshots/detail_story_dark.png" width="257" height="500"> 
 
 
  
