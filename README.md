@@ -2,6 +2,7 @@
 ## List of projects
 - [Current weather app](#CWeather)
 - [Hacker news reader](#Hacker-news-reader)
+- [Alarm for iOS](#alarmv)
 
 # CWeather
 
@@ -46,5 +47,20 @@
 ## Screenshots
 <img src="https://raw.githubusercontent.com/vlsuv/hn/master/screenshots/main_light.png" width="257" height="500"> <img src="https://raw.githubusercontent.com/vlsuv/hn/master/screenshots/detail_story_light.png" width="257" height="500"> <img src="https://raw.githubusercontent.com/vlsuv/hn/master/screenshots/web_light.png" width="257" height="500">  <img src="https://raw.githubusercontent.com/vlsuv/hn/master/screenshots/detail_ask_light.png" width="257" height="500"> <img src="https://raw.githubusercontent.com/vlsuv/hn/master/screenshots/main_dark.png" width="257" height="500"> <img src="https://raw.githubusercontent.com/vlsuv/hn/master/screenshots/detail_story_dark.png" width="257" height="500"> 
 
+# alarmv
+## Description
+- Simple alarm application for ios. The alarm works like a notification using the UserNotifications.
+### More details in the repository: [alarmv](https://github.com/vlsuv/alarmv)
 
- 
+ ## Used
+- MVC
+- CoreData
+- UserNotifications
+- Fully programmatically UI
+- AutoLayout
+- UserDefaults
+- AVAudioPlayer
+- UIKit
+
+## Screenshots
+<img src="https://raw.githubusercontent.com/vlsuv/alarmv/master/Screenshots/alarm_edit_light.png" width="257" height="500"> <img src="https://raw.githubusercontent.com/vlsuv/alarmv/master/Screenshots/main_alarm_light.png" width="257" height="500"> <img src="https://raw.githubusercontent.com/vlsuv/alarmv/master/Screenshots/sound_list_light.png" width="257" height="500"> <img src="https://raw.githubusercontent.com/vlsuv/alarmv/master/Screenshots/main_dark.png" width="257" height="500"> <img src="https://raw.githubusercontent.com/vlsuv/alarmv/master/Screenshots/alarm_edit_dark.png" width="257" height="500"> <img src="https://raw.githubusercontent.com/vlsuv/alarmv/master/Screenshots/sound_list_dark.png" width="257" height="500">
