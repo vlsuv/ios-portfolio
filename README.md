@@ -2,10 +2,10 @@
 ## List of projects
 - [Current weather app](#CWeather)
 - [Hacker news reader](#Hacker-news-reader)
+- [Pomodoro timer](#Pomodoro-timer)
 - [Alarm for iOS](#alarmv)
 
 # CWeather
-
 ## Description
 - A weather app created using [openweathermap API](https://openweathermap.org/api)
 ### More details in the repository: [CWeather](https://github.com/vlsuv/CWeather)
@@ -46,6 +46,26 @@
 
 ## Screenshots
 <img src="https://raw.githubusercontent.com/vlsuv/hn/master/screenshots/main_light.png" width="257" height="500"> <img src="https://raw.githubusercontent.com/vlsuv/hn/master/screenshots/detail_story_light.png" width="257" height="500"> <img src="https://raw.githubusercontent.com/vlsuv/hn/master/screenshots/web_light.png" width="257" height="500">  <img src="https://raw.githubusercontent.com/vlsuv/hn/master/screenshots/detail_ask_light.png" width="257" height="500"> <img src="https://raw.githubusercontent.com/vlsuv/hn/master/screenshots/main_dark.png" width="257" height="500"> <img src="https://raw.githubusercontent.com/vlsuv/hn/master/screenshots/detail_story_dark.png" width="257" height="500"> 
+
+# Pomodoro-timer
+## Description
+- Pomodoro timer app for ios.
+### More details in the repository: [pomodoro](https://github.com/vlsuv/pomodoro)
+
+ ## Used
+- MVP + Router
+- AssemblyBuilder for creating modules
+- UserNotifications
+- Observers for NotificationCenter
+- Fully programmatically UI; AutoLayout;
+- UserDefaults
+- CABasicAnimation; CAShapeLayer
+- UIVisualEffectView
+- UIPresentationController
+- UIKit
+
+## Screenshots
+<img src="https://raw.githubusercontent.com/vlsuv/pomodoro/master/Screenshots/timer_dark.png" width="257" height="500"> <img src="https://raw.githubusercontent.com/vlsuv/pomodoro/master/Screenshots/settings_dark.png" width="257" height="500"> <img src="https://raw.githubusercontent.com/vlsuv/pomodoro/master/Screenshots/time_pick_dark.png" width="257" height="500"> <img src="https://raw.githubusercontent.com/vlsuv/pomodoro/master/Screenshots/timer_light.png" width="257" height="500"> <img src="https://raw.githubusercontent.com/vlsuv/pomodoro/master/Screenshots/settings_light.png" width="257" height="500"> <img src="https://raw.githubusercontent.com/vlsuv/pomodoro/master/Screenshots/time_pick_light.png" width="257" height="500"> <img src="https://raw.githubusercontent.com/vlsuv/pomodoro/master/Screenshots/notification.png" width="257" height="500">
 
 # alarmv
 ## Description
