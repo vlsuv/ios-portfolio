@@ -4,6 +4,7 @@
 - [Hacker news reader](#Hacker-news-reader)
 - [Pomodoro timer](#Pomodoro-timer)
 - [Alarm for iOS](#alarmv)
+- [Chat](#chat)
 
 # CWeather
 ## Description
@@ -84,3 +85,20 @@
 
 ## Screenshots
 <img src="https://raw.githubusercontent.com/vlsuv/alarmv/master/Screenshots/alarm_edit_light.png" width="257" height="500"> <img src="https://raw.githubusercontent.com/vlsuv/alarmv/master/Screenshots/main_alarm_light.png" width="257" height="500"> <img src="https://raw.githubusercontent.com/vlsuv/alarmv/master/Screenshots/sound_list_light.png" width="257" height="500"> <img src="https://raw.githubusercontent.com/vlsuv/alarmv/master/Screenshots/main_dark.png" width="257" height="500"> <img src="https://raw.githubusercontent.com/vlsuv/alarmv/master/Screenshots/alarm_edit_dark.png" width="257" height="500"> <img src="https://raw.githubusercontent.com/vlsuv/alarmv/master/Screenshots/sound_list_dark.png" width="257" height="500">
+
+# chat
+## Description
+- Messenger app using firebase services
+### More details in the repository: [chat](https://github.com/vlsuv/chat)
+
+## Used
+- MVVM + Coordinator
+- Combine
+- FirebaseServices: Auth, Database, Storage.
+- GoogleSignIn
+- MessageKit
+- CoreLocation
+- MapKit
+- UIImagePickerController
+- AVKit
+- Autolayout
