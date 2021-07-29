@@ -1,10 +1,29 @@
 # iOS-Portfolio
 ## List of projects
+- [To-do list](#To-do-list)
 - [Current weather app](#CWeather)
 - [Hacker news reader](#Hacker-news-reader)
 - [Pomodoro timer](#Pomodoro-timer)
 - [Alarm for iOS](#alarmv)
 - [Chat](#chat)
+
+# To-do-list
+## Description
+- A Simple to-do list app build for iPhone.
+### More details in the repository: [to-do-list](https://github.com/vlsuv/to-do-list)
+
+## Used
+- MVP + Coordinators
+- AssemblyBuilder for creating modules
+- Realm & RealmSwift
+- CocoaPods
+- UIKit
+- UserNotificationCenter
+- AutoLayout
+- Without the use of storyboards
+
+## Screenshots
+<img src="https://raw.githubusercontent.com/vlsuv/to-do-list/master/Screenshots/tasks-page.png" width="257" height="500"> <img src="https://raw.githubusercontent.com/vlsuv/to-do-list/master/Screenshots/new-task-page.png" width="257" height="500"> <img src="https://raw.githubusercontent.com/vlsuv/to-do-list/master/Screenshots/edit-task-page-full.png" width="257" height="500"> <img src="https://raw.githubusercontent.com/vlsuv/to-do-list/master/Screenshots/lists-page.png" width="257" height="500">
 
 # CWeather
 ## Description
